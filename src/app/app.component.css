@@ -1,0 +1,16 @@
+.tools-wrapper > sh-tools {
+    margin: 0 2px;
+    display: inline-block;
+}
+
+.image {
+    background-color: black;
+    background-image: url("https://static.healthcare.siemens.com/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/groups/public/@global/@imaging/@ct/documents/image/mdaz/mzi4/~edisp/ct-scanner_clinical-imaging-solutions_syngovia-element-ct_dual-energy-monoenergetic-images-01426863/~renditions/ct-scanner_clinical-imaging-solutions_syngovia-element-ct_dual-energy-monoenergetic-images-01426863~10.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.thumbnail {
+    padding-bottom: 100%;
+}

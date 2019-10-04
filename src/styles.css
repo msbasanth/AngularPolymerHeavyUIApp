@@ -1,0 +1,5 @@
+/* keep this css for hiding components */
+
+*[hidden] {
+    display: none !important;
+}
